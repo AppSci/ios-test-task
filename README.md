@@ -14,6 +14,8 @@ Everything should work in background as well. If the playing or recording is int
 
 You should provide a way to switch off playing the sound of nature completely.
 
+Audio records should be put in user **Documents** folder and be available via iTunes file sharing.
+
 ### Optional Requirements
 
 - provide a way to switch off recording
