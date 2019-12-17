@@ -4,9 +4,9 @@ Write the application that allows the users to set an alarm, play a sound of nat
 
 ### Further Details
 
-Application should consists of one or two screens. On the main screen the users see state of the application: **idle**, **playing**, **recording**, **paused** or **alarm**; two controls that allow the users to choose duration off **sleep timer** in *minutes* and the **alarm time**; and the **play/pause** button.
+Application should consists of one or two screens. On the main screen the users see state of the application: **idle**, **playing**, **recording**, **paused** or **alarm**; two controls that allow the users to choose duration of **sleep timer** in *minutes* and the **alarm time**; and the **play/pause** button.
 
-The users set desired parameters, tap play button and application starts playing the sound of a nature during **sleep timer** duration in a loop. When the sound is finished, application starts recording audio. In the time of alarm, application will transit in alarm state and start playing alarm sound displaying the alert to the user with one action, which will stop the sound and transit application back to **idle** state. If the application is in background when the alarm went off, users should see local notification about the alarm.
+The users set desired parameters, tap play button and application starts playing the sound of a nature during **sleep timer** duration in a loop. When the sound is finished, application starts recording audio. In the time of alarm, application will transit to alarm state and start playing alarm sound displaying the alert to the user with one action **Stop**, which will stop the sound and transit application back to **idle** state. If the application is in background when the alarm went off, users should see local notification about the alarm.
 
 Tapping on **play/pause** should start the entire flow or pause playing or recording, but not the alarm.
 
