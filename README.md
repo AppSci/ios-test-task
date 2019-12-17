@@ -1,6 +1,6 @@
 # Boosters: iOS Coding Challenge
 
-Write the application that allows the users to set an alarm, play a sound of nature and record audio when the sound is finished playing. You should provide your solution as a Pull Request to the master branch of this repository. Please make commits of logical units, so we can evaluate your progress and add comments as you see fit.
+Write the application that allows the users to set an alarm, play a sound of nature and record audio when the sound is finished playing. You should provide your solution as a Pull Request to the `master` branch of this repository. Please make commits of logical units, so we can evaluate your progress and add comments as you see fit.
 
 ### Further Details
 
