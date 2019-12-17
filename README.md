@@ -22,7 +22,7 @@ You should provide a way to switch off playing the sound of nature completely.
 
 ### Design Example
 
-Here is an example how application will might look like, but the final decision is up to you.
+Here is an example how application might look like, but the final decision is up to you.
 
 ![Design Example](image.png)
 
