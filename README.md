@@ -19,7 +19,6 @@ Audio records should be put in user **Documents** folder and be available via iT
 ### Optional Requirements
 
 - provide a way to switch off recording
-- support Dark Mode
 - write tests
 
 ### Design Example
@@ -31,3 +30,6 @@ Here is an example how application might look like, but the final decision is up
 ### Resources
 
 [Alarm Sound](alarm.m4a), [Nature Sound](nature.m4a)
+
+### P.S.
+If something is unclear, feel free to ask any question to your contacting HR
