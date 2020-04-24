@@ -2,6 +2,9 @@
 
 Write the application that allows the users to set an alarm, play a sound of nature and record audio when the sound is finished playing. You should provide your solution as a link to public repository on any git hosting service you prefer: GitHub, GitLab, Bitbucket. Please make commits of logical units, so we can evaluate your progress and add comments as you see fit.
 
+!!! All Frameworks are restricted.
+!!! Please, use ONLY Apple provider frameworks
+
 ### Further Details
 
 Application should consists of one or two screens. On the main screen the users see state of the application: **idle**, **playing**, **recording**, **paused** or **alarm**; two controls that allow the users to choose duration of **sleep timer** in *minutes* and the **alarm time**; and the **play/pause** button.
