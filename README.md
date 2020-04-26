@@ -2,8 +2,9 @@
 
 Write the application that allows the users to set an alarm, play a sound of nature and record audio when the sound is finished playing. You should provide your solution as a link to public repository on any git hosting service you prefer: GitHub, GitLab, Bitbucket. Please make commits of logical units, so we can evaluate your progress and add comments as you see fit.
 
-!!! All Frameworks are restricted.
+!!! All Third-party Frameworks are restricted. Including SwiftLint, RxSwift, Swinject & so on
 !!! Please, use ONLY Apple provider frameworks
+!!! Highly welcome are SwiftUI, Combine 
 
 ### Further Details
 
